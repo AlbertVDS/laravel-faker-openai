@@ -1,5 +1,7 @@
 # Laravel Faker OpenAI Provider
 
+![Tests](https://github.com/jpcaparas/laravel-faker-openai/actions/workflows/test.yml/badge.svg)
+
 <p align="center">
     <img src="./image/usage.gif" alt="Usage">
 </p>
