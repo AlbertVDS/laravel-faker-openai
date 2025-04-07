@@ -1,5 +1,6 @@
 {
     "name": "jpcaparas/laravel-faker-openai",
+    "minimum-stability": "stable",
     "description": "An opinionated Laravel package that modifies the service container Faker behaviour to allow prompts to be generated with OpenAI",
     "license": "MIT",
     "authors": [
